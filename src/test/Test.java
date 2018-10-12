@@ -119,7 +119,7 @@ class Tree {
                 curr.appendChild(node);
             }
         }
-        System.out.println();//for debug
+        System.out.println();//debug
     }
     
     //separate for easy loop
